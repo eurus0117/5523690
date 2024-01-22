@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Warwick Ramen Stand</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f8f8f8;
+                color: #333;
+            }
+
+            .header {
+                background-color: #ff6f61;
+                color: white;
+                text-align: center;
+                padding: 10px 0;
+            }
+
+            .content {
+                padding: 20px;
+            }
+
+            #ramen-menu {
+                background-color: #ffe6cc;
+                padding: 15px;
+                border-radius: 5px;
+            }
+
+            .menu-item {
+                color: #ff4500;
+                font-weight: bold;
+            }
+
+            .footer {
+                background-color: #333;
+                color: white;
+                text-align: center;
+                padding: 5px 0;
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <div class="header">
+            <h1 id="stand-name">Warwick Ramen Stand</h1>
+        </div>
+
+        <div class="content">
+            <p>Welcome to the best ramen stand on the University of Warwick campus!</p>
+            <div id="ramen-menu">
+                <h2>Our Menu</h2>
+                <p class="menu-item">Tonkotsu Ramen</p>
+                <p class="menu-item">Shoyu Ramen</p>
+                <p class="menu-item">Miso Ramen</p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>Visit us outside MEC!</p>
+        </div>
+
+    </body>
+
+</html>
