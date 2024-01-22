@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h1>
+    <h3><a href="walkthrough.html"></a></h1>
+    <h4>Heading 4</h1>
+    <h5>Heading 5</h1>
+    <h6>Heading 6</h1>
+
+    <hr>
+
+    <ol>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+    </ol>
+
+    <vl>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+        <li>list element</li>
+    </vl>
+
+    <table>
+        <thead>
+            <tr>
+                <th>james</th>
+                <th>james</th>
+                <th>james</th>
+            </tr>
+            <tbody>
+
+            </tbody>
+
+            </tr>
+        </thead>
+    </table>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus repudiandae veniam doloremque voluptatibus cupiditate explicabo nemo vitae quia provident expedita sunt exercitationem dolores, reiciendis eaque ea numquam mollitia magni unde! <br><br></p>
+     <hr>
+
+    <a href="http://www.warwick.ac.uk" target="_blank">University of Warwick</a>
+    <a href="/pages/test.html" target=_blank>Test Page</a>
+
+    <ol class="aqua-list">
+        <li>List element 1</li>
+        <li>List element 2</li>
+        <li>List element 3</li>
+        <li>List element 4</li>
+    </ol>
+
+    <ul class="aqua-list">
+        <li>List element 1</li>
+        <li>List element 2</li>
+        <li>List element 3</li>
+        <li>List element 4</li>
+    </ul>
+
+    <ol id="blue-list">
+        <li>List element 1</li>
+        <li>List element 2</li>
+        <li>List element 3</li>
+        <li>List element 4</li>
+    </ol>
+
+    <img src="https://yt3.googleusercontent.com/ytc/AGIKgqO8yg0_xytaMXJnA5g7popNadbVXw8gPX3XMox4vQ=s900-c-k-c0x00ffffff-no-rj"
+        width="200px" alt="Rich man on holiday">
+
+    <table>
+        <thead>
+            <tr>
+                <th>James</th>
+                <th>Mark</th>
+                <th>Jordan</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>90</td>
+                <td>40</td>
+                <td>29</td>
+            </tr>
+            <tr>
+                <td>Grumpy</td>
+                <td>Neutral</td>
+                <td>Shy</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>
